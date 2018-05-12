@@ -20,8 +20,4 @@ jQuery3.2.1
 SweetAlert2
 Google Fonts
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
