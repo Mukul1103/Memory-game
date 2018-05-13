@@ -2,10 +2,10 @@
 
 ### How to Start
 
-- Open `index.html` to start
+- Open index.html to start
 - Click the card to flip it.
 - If two cards match, they get locked.
-- If they do not match, they flip back.
+- If they do not match, they will flip back.
 - You win after you have matched all the cards.
 
 ### Project is made using
