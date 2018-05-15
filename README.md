@@ -6,7 +6,7 @@
 - Click the card to flip it.
 - If two cards match, they get locked.
 - If they do not match, they will flip back.
-- You win after you have matched all the cards.
+- You win once you have matched all the cards.
 
 ### Project is made using
 
