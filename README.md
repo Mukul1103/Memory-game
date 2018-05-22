@@ -12,7 +12,7 @@
 
 - HTML
 - CSS
-- JS
+- JavaScript
 - Bootstrap
 
 ## Dependencies
