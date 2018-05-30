@@ -22,12 +22,6 @@ window.onload = function() {
     }, 1000);
 };
 
-
-
-
-
-
-
 start();
 var moves = 0;
 var visible = [];
