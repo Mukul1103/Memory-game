@@ -28,7 +28,7 @@ var visible = [];
 var stars = 3;
 
 
-//initializes the game
+//initializes game
 function start() {
     var elements = ['bicycle', 'bicycle', 'leaf', 'leaf', 'cube', 'cube', 'anchor', 'anchor', 'paper-plane-o', 'paper-plane-o', 'bolt', 'bolt', 'bomb', 'bomb', 'diamond', 'diamond']
     cards = shuffle(elements);
